@@ -1,3 +1,6 @@
 # hello-world
 Just another repository
-I'm Sofia
+
+This one is to test my skills. 
+
+Thank you in advance.
